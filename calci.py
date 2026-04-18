@@ -1,4 +1,4 @@
-import math
+import maths
 
 class Calculator:
     def add(self, x, y):
@@ -22,4 +22,4 @@ b = int(input("Enter second number: "))
 print("Sum:", calc.add(a, b))
 print("Difference:", calc.subtract(a, b))
 print("Product:", calc.multiply(a, b))
-print("Quotient:", calc.divide(a, b))
+print("Quotient:", calc.divide(a, b)
